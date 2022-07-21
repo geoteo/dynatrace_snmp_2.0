@@ -38,13 +38,13 @@ author:
   name: <value>
 
 metrics:
-- key: <value>
+ - key: <value>
    metadata:
       displayName: <value>
       description: <value>
       unit: <value>
 - key: <value>
-   metadata:
+  metadata:
       displayName: <value>
       description: <value>
       unit: <value>
